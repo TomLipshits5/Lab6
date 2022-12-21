@@ -2,7 +2,6 @@
 #include <unistd.h>
 #include <stdio.h>
 #include "../LineParser.c"
-#include <stdlib.h>
 #include "errno.h"
 #include <sys/wait.h>
 
